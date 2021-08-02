@@ -1,0 +1,100 @@
+1,GILBERT Philippe,Deceuninck - Quick Step,Lotto Soudal
+2,NIBALI Vincenzo,Bahrain Merida,Trek - Segafredo
+3,GREIPEL André,Team Arkéa Samsic,Israel Start-Up Nation
+4,CAVENDISH Mark,Team Dimension Data,Bahrain - McLaren
+5,QUINTANA Nairo,Movistar Team,Team Arkéa Samsic
+6,MARTIN Dan,UAE-Team Emirates,Israel Start-Up Nation
+7,DEGENKOLB John,Trek - Segafredo,Lotto Soudal
+8,VIVIANI Elia,Deceuninck - Quick Step,Cofidis, Solutions Crédits
+9,POZZOVIVO Domenico,Bahrain Merida,NTT Pro Cycling
+10,DUMOULIN Tom,Team Sunweb,Team Jumbo-Visma
+11,BOUHANNI Nacer,Cofidis, Solutions Crédits,Team Arkéa Samsic
+12,POELS Wout,Team INEOS,Bahrain - McLaren
+13,LANDA Mikel,Movistar Team,Bahrain - McLaren
+14,TRENTIN Matteo,Mitchelton-Scott,CCC Team
+15,DENNIS Rohan,Bahrain Merida,Team INEOS
+16,BENNETT Sam,BORA - hansgrohe,Deceuninck - Quick Step
+17,BAKELANTS Jan,Team Sunweb,Circus - Wanty Gobert
+18,BENOOT Tiesj,Lotto Soudal,Team Sunweb
+19,MODOLO Sacha,EF Education First,Alpecin-Fenix
+20,ZAKARIN Ilnur,Team Katusha Alpecin,CCC Team
+21,SIMON Julien,Cofidis, Solutions Crédits,Team Total Direct Energie
+22,WEENING Pieter,Roompot - Charles,Trek - Segafredo
+23,CARAPAZ Richard,Movistar Team,Team INEOS
+24,BILBAO Pello,Astana Pro Team,Bahrain - McLaren
+25,MACHADO Tiago,Sporting Clube de Portugal/Tavira,Efapel
+26,MARTIN Guillaume,Wanty - Gobert Cycling Team,Cofidis, Solutions Crédits
+27,FELLINE Fabio,Trek - Segafredo,Astana Pro Team
+28,VAN POPPEL Danny,Team Jumbo-Visma,Circus - Wanty Gobert
+29,RICHEZE Maximiliano,Deceuninck - Quick Step,UAE-Team Emirates
+30,KEUKELEIRE Jens,Lotto Soudal,EF Pro Cycling
+31,MAS Enric,Deceuninck - Quick Step,Movistar Team
+32,FORMOLO Davide,BORA - hansgrohe,UAE-Team Emirates
+33,DEBUSSCHERE Jens,Team Katusha Alpecin,B&B Hotels - Vital Concept p/b KTM
+34,SLAGTER Tom-Jelte,Team Dimension Data,B&B Hotels - Vital Concept p/b KTM
+35,VANENDERT Jelle,Lotto Soudal,Bingoal - Wallonie Bruxelles
+36,NAVARRO Daniel,Team Katusha Alpecin,Israel Start-Up Nation
+37,CATALDO Dario,Astana Pro Team,Movistar Team
+38,CORT Magnus,Astana Pro Team,EF Pro Cycling
+39,LOBATO Juan José,Nippo Vini Fantini Faizanè,Fundación - Orbea
+40,HAAS Nathan,Team Katusha Alpecin,Cofidis, Solutions Crédits
+41,RUBIANO Miguel Angel,Coldeportes Zenu,Colombia Tierra de Atletas - GW Bicicletas
+42,DE LA CRUZ David,Team INEOS,UAE-Team Emirates
+43,AMADOR Andrey,Movistar Team,Team INEOS
+44,SBARAGLI Kristian,Israel Cycling Academy,Alpecin-Fenix
+45,CAPECCHI Eros,Deceuninck - Quick Step,Bahrain - McLaren
+46,CHERNETSKI Sergei,Caja Rural - Seguros RGA,Gazprom - RusVelo
+47,GUARDINI Andrea,Bardiani - CSF,Giotti Victoria
+48,VLASOV Aleksandr,Gazprom-RusVelo,Astana Pro Team
+49,RUTKIEWICZ Marek,Wibatech Merx 7R,Mazowsze Serce Polski
+50,VAN STAEYEN Michael,Roompot - Charles,Tarteletto - Isorex
+51,ATAPUMA Darwin,Cofidis, Solutions Crédits,Colombia Tierra de Atletas - GW Bicicletas
+52,CATTANEO Mattia,Androni Giocattoli - Sidermec,Deceuninck - Quick Step
+53,BATTAGLIN Enrico,Team Katusha Alpecin,Bahrain - McLaren
+54,BARBERO Carlos,Movistar Team,NTT Pro Cycling
+55,CANOLA Marco,Nippo Vini Fantini Faizanè,Gazprom - RusVelo
+56,ROSA Diego,Team INEOS,Team Arkéa Samsic
+57,DOWSETT Alex,Team Katusha Alpecin,Israel Start-Up Nation
+58,VAKOČ Petr,Deceuninck - Quick Step,Alpecin-Fenix
+59,POLITT Nils,Team Katusha Alpecin,Israel Start-Up Nation
+60,CAMPENAERTS Victor,Lotto Soudal,NTT Pro Cycling
+61,VILLELLA Davide,Astana Pro Team,Movistar Team
+62,BAUGNIES Jérôme,Wanty - Gobert Cycling Team,Canyon dhb p/b Soreen
+63,MUGERLI Matej,My Bike - Stevens,Continental Team Sport.Land. Niederösterreich
+64,MASNADA Fausto,CCC Team,Deceuninck - Quick Step
+65,MASNADA Fausto,Androni Giocattoli - Sidermec,CCC Team
+66,ALMEIDA João,Hagens Berman Axeon,Deceuninck - Quick Step
+67,HOFSTETTER Hugo,Cofidis, Solutions Crédits,Israel Start-Up Nation
+68,SUTHERLAND Rory,UAE-Team Emirates,Israel Start-Up Nation
+69,ZEITS Andrey,Astana Pro Team,Mitchelton-Scott
+70,JULES Justin,Wallonie-Bruxelles,NIPPO DELKO One Provence
+71,LAMMERTINK Maurits,Roompot - Charles,Circus - Wanty Gobert
+72,WALSCHEID Max,Team Sunweb,NTT Pro Cycling
+73,PELUCCHI Matteo,Androni Giocattoli - Sidermec,Bardiani-CSF-Faizanè
+74,GUERREIRO Ruben,Team Katusha Alpecin,EF Pro Cycling
+75,VENDRAME Andrea,Androni Giocattoli - Sidermec,AG2R La Mondiale
+76,BUTS Vitaliy,Kyiv Capital Team,Shenzhen Xidesheng Cycling Team
+77,POURSEYEDI Mirsamad,Omidnia Mashhad Team,Foolad Mobarakeh Sepahan
+78,MCLAY Daniel,EF Education First,Team Arkéa Samsic
+79,ZOIDL Riccardo,CCC Team,Team Felbermayr - Simplon Wels
+80,VALLS Rafael,Movistar Team,Bahrain - McLaren
+81,ELISSONDE Kenny,Team INEOS,Trek - Segafredo
+82,GONÇALVES José,Team Katusha Alpecin,NIPPO DELKO One Provence
+83,SABATINI Fabio,Deceuninck - Quick Step,Cofidis, Solutions Crédits
+84,BALLERINI Davide,Astana Pro Team,Deceuninck - Quick Step
+85,CONSONNI Simone,UAE-Team Emirates,Cofidis, Solutions Crédits
+86,ȚVETCOV Serghei,Floyd's Pro Cycling,Team Sapura Cycling
+87,BOUDAT Thomas,Team Total Direct Energie,Team Arkéa Samsic
+88,DE BIE Sean,Roompot - Charles,Bingoal - Wallonie Bruxelles
+89,DOMBROWSKI Joe,EF Education First,UAE-Team Emirates
+90,VAN POPPEL Boy,Roompot - Charles,Circus - Wanty Gobert
+91,KUZNETSOV Viacheslav,Team Katusha Alpecin,Gazprom - RusVelo
+92,ARANBURU Alex,Caja Rural - Seguros RGA,Astana Pro Team
+93,VERMOTE Julien,Team Dimension Data,Cofidis, Solutions Crédits
+94,ANACONA Winner,Movistar Team,Team Arkéa Samsic
+95,VERMELTFOORT Coen,Alecto Cycling Team,VolkerWessels-Merckx
+96,FERNÁNDEZ Rubén,Movistar Team,Fundación - Orbea
+97,HIRT Jan,Astana Pro Team,CCC Team
+98,HALVORSEN Kristoffer,Team INEOS,EF Pro Cycling
+99,HALLER Marco,Team Katusha Alpecin,Bahrain - McLaren
+100,MANZIN Lorrenzo,Vital Concept - B&B Hotels,Team Total Direct Energie

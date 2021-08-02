@@ -1,0 +1,100 @@
+1,CAVENDISH Mark,Etixx - Quick Step,Team Dimension Data
+2,MARTIN Dan,Team Cannondale - Garmin,Etixx - Quick Step
+3,CHAVANEL Sylvain,IAM Cycling,Direct Energie
+4,PORTE Richie,Team Sky,BMC Racing Team
+5,URÁN Rigoberto,Etixx - Quick Step,Cannondale Pro Cycling Team
+6,ROGLIČ Primož,Adria Mobil,Team LottoNL-Jumbo
+7,KWIATKOWSKI Michał,Etixx - Quick Step,Team Sky
+8,MORENO Daniel,Team Katusha,Movistar Team
+9,POZZATO Filippo,Lampre - Merida,Wilier - Southeast
+10,KITTEL Marcel,Team Giant - Alpecin,Etixx - Quick Step
+11,HORNER Chris,Airgas Safeway Cycling,Lupus Racing Team
+12,NOCENTINI Rinaldo,AG2R La Mondiale,Sporting Clube de Portugal/Tavira
+13,LANDA Mikel,Astana Pro Team,Team Sky
+14,WEGMANN Fabian,Cult Energy Pro Cycling,Stölting Service Group
+15,BRESCHEL Matti,Tinkoff - Saxo,Cannondale Pro Cycling Team
+16,GAVAZZI Francesco,Southeast,Androni Giocattoli - Sidermec
+17,HESJEDAL Ryder,Team Cannondale - Garmin,Trek - Segafredo
+18,KOLOBNEV Alexandr,Team Katusha,Gazprom-RusVelo
+19,BERNAL Egan,,Androni Giocattoli - Sidermec
+20,GROENEWEGEN Dylan,Roompot - Oranje Peloton,Team LottoNL-Jumbo
+21,ANTÓN Igor,Movistar Team,Team Dimension Data
+22,NAESEN Oliver,Topsport Vlaanderen - Baloise,IAM Cycling
+23,ROLLAND Pierre,Team Europcar,Cannondale Pro Cycling Team
+24,SCHUMACHER Stefan,CCC Sprandi Polkowice,Christina Jewelry Pro Cycling
+25,VAN DEN BROECK Jurgen,Lotto Soudal,Team Katusha
+26,FEILLU Romain,Bretagne - Séché Environnement,HP BTP - Auber93
+27,EISEL Bernhard,Team Sky,Team Dimension Data
+28,CIOLEK Gerald,MTN - Qhubeka,Stölting Service Group
+29,JUNGELS Bob,Trek Factory Racing,Etixx - Quick Step
+30,WOODS Michael,Optum p/b Kelly Benefit Strategies,Cannondale Pro Cycling Team
+31,LARSSON Gustav Erik,Cult Energy Pro Cycling,ColoQuick CULT
+32,WEENING Pieter,Orica GreenEDGE,Roompot - Oranje Peloton
+33,TAARAMÄE Rein,Astana Pro Team,Team Katusha
+34,CARAPAZ Richard,,Strongman-Campagnolo Wilier
+35,GOSS Matthew,MTN - Qhubeka,One Pro Cycling
+36,BOLE Grega,CCC Sprandi Polkowice,Nippo - Vini Fantini
+37,PLAZA Rubén,Lampre - Merida,Orica GreenEDGE
+38,MARTIN Guillaume,FDJ.fr,Wanty - Groupe Gobert
+39,BOŽIČ Borut,Astana Pro Team,Cofidis, Solutions Crédits
+40,CLARKE Simon,Orica GreenEDGE,Cannondale Pro Cycling Team
+41,VAN POPPEL Danny,Trek Factory Racing,Team Sky
+42,RICHEZE Maximiliano,Lampre - Merida,Etixx - Quick Step
+43,SIUTSOU Kanstantsin,Team Sky,Team Dimension Data
+44,DUPONT Timothy,Roubaix Lille Métropole,Verandas Willems Cycling Team
+45,RENSHAW Mark,Etixx - Quick Step,Team Dimension Data
+46,FINETTO Mauro,Southeast,Unieuro Wilier
+47,GERDEMANN Linus,Cult Energy Pro Cycling,Stölting Service Group
+48,MEZGEC Luka,Team Giant - Alpecin,Orica GreenEDGE
+49,SØRENSEN Chris Anker,Tinkoff - Saxo,Fortuneo - Vital Concept
+50,PLANCKAERT Baptiste,Roubaix Lille Métropole,Wallonie - Bruxelles
+51,DUQUE Leonardo Fabio,Team Colombia,Delko Marseille Provence KTM
+52,BETANCUR Carlos,AG2R La Mondiale,Movistar Team
+53,MAS Enric,,Klein Constantia
+54,DEHAES Kenny,Lotto Soudal,Wanty - Groupe Gobert
+55,TEN DAM Laurens,Team LottoNL-Jumbo,Team Giant - Alpecin
+56,INTXAUSTI Beñat,Movistar Team,Team Sky
+57,THEUNS Edward,Topsport Vlaanderen - Baloise,Trek - Segafredo
+58,MEINTJES Louis,MTN - Qhubeka,Lampre - Merida
+59,MOHORIČ Matej,Team Cannondale - Garmin,Lampre - Merida
+60,PEDERSEN Mads,Cult Energy Pro Cycling,Stölting Service Group
+61,MOSCON Gianni,,Team Sky
+62,GATTO Oscar,Androni Giocattoli - Sidermec,Tinkoff
+63,GAUTIER Cyril,Team Europcar,AG2R La Mondiale
+64,BONIFAZIO Niccolò,Lampre - Merida,Trek - Segafredo
+65,KRAGH ANDERSEN Søren,Team Trefor - Blue Water,Team Giant - Alpecin
+66,PONZI Simone,Southeast,CCC Sprandi Polkowice
+67,HAAS Nathan,Team Cannondale - Garmin,Team Dimension Data
+68,ARASHIRO Yukiya,Team Europcar,Lampre - Merida
+69,RUBIANO Miguel Angel,Team Colombia,China Continental Team of Gansu Bank
+70,MØRKØV Michael,Tinkoff - Saxo,Team Katusha
+71,MIZBANI Ghader,Tabriz Petrochemical Team,Tabriz Shahrdari Team
+72,CAPECCHI Eros,Movistar Team,Astana Pro Team
+73,OLIVEIRA Nelson,Lampre - Merida,Movistar Team
+74,TROFIMOV Yuri,Team Katusha,Tinkoff
+75,GEOGHEGAN HART Tao,Team Sky,Axeon Hagens Berman
+76,REICHENBACH Sébastien,IAM Cycling,FDJ
+77,RUTKIEWICZ Marek,CCC Sprandi Polkowice,Wibatech Fuji
+78,ASGREEN Kasper,MLP Team Bergstraße,Team Trefor
+79,PETIT Adrien,Cofidis, Solutions Crédits,Direct Energie
+80,CALMEJANE Lilian,,Direct Energie
+81,VAITKUS Tomas,Rietumu - Delfin,NASR-DUBAI
+82,MEYER Cameron,Orica GreenEDGE,Team Dimension Data
+83,MARTÍNEZ Daniel Felipe,Team Colombia,Wilier - Southeast
+84,BATTAGLIN Enrico,Bardiani - CSF Pro Team,Team LottoNL-Jumbo
+85,SKUJIŅŠ Toms,Hincapie Racing Team,Cannondale Pro Cycling Team
+86,OOMEN Sam,Rabobank Development Team,Team Giant - Alpecin
+87,GROßSCHARTNER Felix,Team Felbermayr - Simplon Wels,CCC Sprandi Polkowice
+88,GROßSCHARTNER Felix,Tinkoff - Saxo,CCC Sprandi Polkowice
+89,ZAUGG Oliver,Tinkoff - Saxo,IAM Cycling
+90,POLITT Nils,Team Stölting,Team Katusha
+91,CICCONE Giulio,,Bardiani - CSF
+92,CAMPENAERTS Victor,Topsport Vlaanderen - Baloise,Team LottoNL-Jumbo
+93,MEURISSE Xandro,An Post - Chain Reaction,Crelan - Vastgoedservice
+94,WALLAYS Jelle,Topsport Vlaanderen - Baloise,Lotto Soudal
+95,KONOVALOVAS Ignatas,Team Marseille 13 KTM,FDJ
+96,BLYTHE Adam,Orica GreenEDGE,Tinkoff
+97,KUMP Marko,Adria Mobil,Lampre - Merida
+98,CLAEYS Dimitri,Verandas Willems Cycling Team,Wanty - Groupe Gobert
+99,TXURRUKA Amets,Caja Rural - Seguros RGA,Orica GreenEDGE
+100,SANTAROMITA Ivan,Orica GreenEDGE,Skydive Dubai Pro Cycling Team - Al Ahli Club

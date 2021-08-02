@@ -1,0 +1,100 @@
+1,KRISTOFF Alexander,Team Katusha Alpecin,UAE-Team Emirates
+2,MARTIN Dan,Quick-Step Floors,UAE-Team Emirates
+3,VIVIANI Elia,Team Sky,Quick-Step Floors
+4,POZZOVIVO Domenico,AG2R La Mondiale,Bahrain Merida Pro Cycling Team
+5,MORENO Daniel,Movistar Team,Team EF Education First-Drapac p/b Cannondale
+6,GERRANS Simon,ORICA-Scott,BMC Racing Team
+7,KITTEL Marcel,Quick-Step Floors,Team Katusha Alpecin
+8,LANDA Mikel,Team Sky,Movistar Team
+9,GALLOPIN Tony,Lotto Soudal,AG2R La Mondiale
+10,TRENTIN Matteo,Quick-Step Floors,Mitchelton-Scott
+11,BRESCHEL Matti,Astana Pro Team,Team EF Education First-Drapac p/b Cannondale
+12,ARU Fabio,Astana Pro Team,UAE-Team Emirates
+13,ROELANDTS Jürgen,Lotto Soudal,BMC Racing Team
+14,BRAJKOVIČ Janez,Bahrain Merida Pro Cycling Team,Adria Mobil
+15,NIEVE Mikel,Team Sky,Mitchelton-Scott
+16,HERMANS Ben,BMC Racing Team,Israel Cycling Academy
+17,MODOLO Sacha,UAE Team Emirates,Team EF Education First-Drapac p/b Cannondale
+18,BARGUIL Warren,Team Sunweb,Team Fortuneo - Samsic
+19,TAARAMÄE Rein,Team Katusha Alpecin,Direct Energie
+20,IZAGIRRE Gorka,Movistar Team,Bahrain Merida Pro Cycling Team
+21,PLAZA Rubén,ORICA-Scott,Israel Cycling Academy
+22,HERRADA Jesús,Movistar Team,Cofidis, Solutions Crédits
+23,VAN POPPEL Danny,Team Sky,Team LottoNL-Jumbo
+24,CASTROVIEJO Jonathan,Movistar Team,Team Sky
+25,KEUKELEIRE Jens,ORICA-Scott,Lotto Soudal
+26,BRAMBILLA Gianluca,Quick-Step Floors,Trek - Segafredo
+27,FORMOLO Davide,Cannondale-Drapac Pro Cycling Team,BORA - hansgrohe
+28,SLAGTER Tom-Jelte,Cannondale-Drapac Pro Cycling Team,Team Dimension Data
+29,THEUNS Edward,Trek - Segafredo,Team Sunweb
+30,VAN BAARLE Dylan,Cannondale-Drapac Pro Cycling Team,Team Sky
+31,MEINTJES Louis,UAE Team Emirates,Team Dimension Data
+32,OSS Daniel,BMC Racing Team,BORA - hansgrohe
+33,MOHORIČ Matej,UAE Team Emirates,Bahrain Merida Pro Cycling Team
+34,SERPA José Rodolfo,Lampre - Merida,GW - Shimano
+35,CORT Magnus,ORICA-Scott,Astana Pro Team
+36,LOBATO Juan José,Team LottoNL-Jumbo,Nippo - Vini Fantini - Europa Ovini
+37,HAAS Nathan,Team Dimension Data,Team Katusha Alpecin
+38,BÁRTA Jan,BORA - hansgrohe,Elkov - Author Cycling Team
+39,DE LA CRUZ David,Quick-Step Floors,Team Sky
+40,MØRKØV Michael,Team Katusha Alpecin,Quick-Step Floors
+41,MORENO Javier,Bahrain Merida Pro Cycling Team,Delko Marseille Provence KTM
+42,SBARAGLI Kristian,Team Dimension Data,Israel Cycling Academy
+43,GUARDINI Andrea,UAE Team Emirates,Bardiani - CSF
+44,DILLIER Silvan,BMC Racing Team,AG2R La Mondiale
+45,BETTIOL Alberto,Cannondale-Drapac Pro Cycling Team,BMC Racing Team
+46,SKUJIŅŠ Toms,Cannondale-Drapac Pro Cycling Team,Trek - Segafredo
+47,MOINARD Amaël,BMC Racing Team,Team Fortuneo - Samsic
+48,DOWSETT Alex,Movistar Team,Team Katusha Alpecin
+49,CAMPENAERTS Victor,Team LottoNL-Jumbo,Lotto Soudal
+50,BOECKMANS Kris,Lotto Soudal,Vital Concept Cycling Club
+51,VILLELLA Davide,Cannondale-Drapac Pro Cycling Team,Astana Pro Team
+52,HERRADA José,Movistar Team,Cofidis, Solutions Crédits
+53,KUMP Marko,UAE Team Emirates,CCC Sprandi Polkowice
+54,KENNAUGH Peter,Team Sky,BORA - hansgrohe
+55,SUTHERLAND Rory,Movistar Team,UAE-Team Emirates
+56,FRAILE Omar,Team Dimension Data,Astana Pro Team
+57,BAUER Jack,Quick-Step Floors,Mitchelton-Scott
+58,BEVIN Patrick,Cannondale-Drapac Pro Cycling Team,BMC Racing Team
+59,VALLS Rafael,Lotto Soudal,Movistar Team
+60,WIPPERT Wouter,Cannondale-Drapac Pro Cycling Team,Roompot - Nederlandse Loterij
+61,SINKELDAM Ramon,Team Sunweb,Groupama - FDJ
+62,REGUIGUI Youcef,Team Dimension Data,Sovac - Natura4Ever
+63,DE BIE Sean,Lotto Soudal,Vérandas Willems-Crelan
+64,KOREN Kristijan,Cannondale-Drapac Pro Cycling Team,Bahrain Merida Pro Cycling Team
+65,LE BON Johan,FDJ,Vital Concept Cycling Club
+66,VERMOTE Julien,Quick-Step Floors,Team Dimension Data
+67,DE CLERCQ Bart,Lotto Soudal,Wanty - Groupe Gobert
+68,MANZIN Lorrenzo,FDJ,Vital Concept Cycling Club
+69,EIKING Odd Christian,FDJ,Wanty - Groupe Gobert
+70,HOULE Hugo,AG2R La Mondiale,Astana Pro Team
+71,DOCKER Mitchell,ORICA-Scott,Team EF Education First-Drapac p/b Cannondale
+72,GRMAY Tsgabu,Bahrain Merida Pro Cycling Team,Trek - Segafredo
+73,BYSTRØM Sven Erik,Team Katusha Alpecin,UAE-Team Emirates
+74,TEKLEHAIMANOT Daniel,Team Dimension Data,Cofidis, Solutions Crédits
+75,PREIDLER Georg,Team Sunweb,Groupama - FDJ
+76,ENGER Sondre Holst,AG2R La Mondiale,Israel Cycling Academy
+77,REZA Kévin,FDJ,Vital Concept Cycling Club
+78,MENDES José,BORA - hansgrohe,Burgos-BH
+79,DE BACKER Bert,Team Sunweb,Vital Concept Cycling Club
+80,WAEYTENS Zico,Team Sunweb,Vérandas Willems-Crelan
+81,BOSWELL Ian,Team Sky,Team Katusha Alpecin
+82,MOSCHETTI Matteo,Trek - Segafredo,Polartec-Kometa
+83,GERTS Floris,BMC Racing Team,Roompot - Nederlandse Loterij
+84,VERVAEKE Louis,Lotto Soudal,Team Sunweb
+85,MULLEN Ryan,Cannondale-Drapac Pro Cycling Team,Trek - Segafredo
+86,CHEUNG King Lok,ORICA-Scott,HKSI Pro Cycling Team
+87,WELTEN Bram,BMC Racing Team,Team Fortuneo - Samsic
+88,ARCHBOLD Shane,BORA - hansgrohe,Aqua Blue Sport
+89,EYOB Metkel,Team Dimension Data,Terengganu Cycling Team
+90,HAVIK Piotr,Team Katusha Alpecin,BEAT Cycling Club
+91,SENNI Manuel,BMC Racing Team,Bardiani - CSF
+92,HERKLOTZ Silvio,BORA - hansgrohe,Burgos-BH
+93,KANTER Max,Team Sunweb,Development Team Sunweb
+94,RUSSO Clément,AG2R La Mondiale,Team Fortuneo - Samsic
+95,KAMYSHEV Arman,Astana Pro Team,Vino - Astana Motors
+96,COURTEILLE Arnaud,FDJ,Vital Concept Cycling Club
+97,ZURLO Federico,UAE Team Emirates,MsTina-Focus
+98,RODRIGUEZ Jose Luis,Trek - Segafredo,Sindicato Empleados Públicos of San Juan
+99,BASSO Leonardo,Trek Factory Racing,Team Sky
+100,MÜLLER Patrick,BMC Racing Team,Vital Concept Cycling Club
